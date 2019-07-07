@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(-180deg, rgb(245, 61, 45), rgb(255, 102, 51));
+}
+
+.middle{
+  position: absolute;
+  top: 27%;
+  height: 400px;
+  margin-top: -60px;
+
+}
+
+.m15{
+  margin-top: 15px!important;
+}
+
+.h350{
+  max-height: 350px!important;
+  overflow-y: auto;
+}
+
+.hauto{
+  height: 120px!important;
+}
+
+.inputbottom{
+  padding:8px!important;
+  font-size: 2em!important;
+  margin-top:-5px!important;
+  display:block!important;
+  border:none!important;
+  border-bottom:2px solid #ddd!important;
+}
+.description{
+  font-size: 10px;
+}
+
+.bolder{
+  font-weight: bolder;
+}
+
+.remove{
+  margin-top:10px !important;
+  padding:10px 15px !important;
+}
